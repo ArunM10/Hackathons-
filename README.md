@@ -1,1 +1,1 @@
-# Hackathons- Only Hakathon related files will be uploaded here.
+# Hackathons- Description: The notebooks are different trials we ran with different delta values and perturbation types. The main presentation is included in the file named 'XXZ_10_correlation_state_perturbation - 0.1 (1)'. 
